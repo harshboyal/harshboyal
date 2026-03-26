@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**Erupter20/Erupter20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | HTML, CSS, Bootstrap, Python  
+🚀 Building responsive UI projects  
+🌍 Open to remote opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- HTML, CSS, Bootstrap  
+- Python  
+- Git & GitHub  
+
+---
+
+## 📌 Projects
+
+### 🦖 Jurassic Expedition Tours
+Responsive booking website with modals, carousels, and form validation  
+🔗 Live Demo: (add after deploy)  
+🔗 GitHub: (your repo link)
+
+---
+
+### 🐔 Los Pollos Hermanos E-commerce UI
+Static e-commerce frontend with product listings and reusable UI components  
+🔗 GitHub: (your repo link)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Erupter20
