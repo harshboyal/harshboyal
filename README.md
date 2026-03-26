@@ -17,14 +17,14 @@
 
 ### 🦖 Jurassic Expedition Tours
 Responsive booking website with modals, carousels, and form validation  
-🔗 Live Demo: (add after deploy)  
-🔗 GitHub: (your repo link)
+🔗 Live Demo: https://erupter20.github.io/GFG_practice/ 
+🔗 GitHub: web/assignments/week03/jurrasic-expenditions
 
 ---
 
 ### 🐔 Los Pollos Hermanos E-commerce UI
 Static e-commerce frontend with product listings and reusable UI components  
-🔗 GitHub: (your repo link)
+🔗 GitHub: web/assignments/week01/ecommerce-week01
 
 ---
 
