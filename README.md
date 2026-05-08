@@ -29,6 +29,6 @@ Static e-commerce frontend with product listings and reusable UI components
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/Erupter20
+- GitHub: https://github.com/harshboyal
 - Linkedin: https://www.linkedin.com/in/boyalharsh/
 - Email: boyalharsh1@gmail.com
